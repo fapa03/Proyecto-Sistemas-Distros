@@ -1,3 +1,3 @@
-print (" Hola mudndilloooo")
-print (" Hola mudndilloooo")
-print (" Hola mudndilloooo")
+print (" Pues que pues")
+print (" Lokoooo")
+print (" Pues que pueees")
